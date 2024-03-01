@@ -1,0 +1,14 @@
+.homeBanner{
+    background-image: url(/images/vegetables-italian-knife-placed-left-black-table.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 100vh;
+}
+.singleRecipe{
+    background-image: url(/images/—Pngtree—european\ retro\ ornate\ recipe\ menu_1028006.jpg);
+    background-size:cover;
+    background-position: center top;
+    background-repeat: no-repeat;
+    padding:36px 20px 16px 16px; 
+}
