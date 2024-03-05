@@ -1,12 +1,12 @@
 .homeBanner{
-    background-image: url(/images/vegetables-italian-knife-placed-left-black-table.jpg);
+    background-image: url('https://github.com/joychandrauday/amar.recipe/blob/main/images/vegetables-italian-knife-placed-left-black-table.jpg?raw=true');
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
     min-height: 100vh;
 }
 .singleRecipe{
-    background-image: url(/images/—Pngtree—european\ retro\ ornate\ recipe\ menu_1028006.jpg);
+    background-image: url('https://github.com/joychandrauday/amar.recipe/blob/main/images/%E2%80%94Pngtree%E2%80%94european%20retro%20ornate%20recipe%20menu_1028006.jpg?raw=true');
     background-size:cover;
     background-position: center top;
     background-repeat: no-repeat;
