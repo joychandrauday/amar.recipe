@@ -30,7 +30,7 @@ const loadRecipeSingle = async (category) => {
             <div class="card-body">
                 <h2 class="card-title">${recipe.strMeal}</h2>
                 <button class="btn btn-primary" onclick="recipeByID('${recipe.idMeal}')">Learn now!</button>
-                <button className="btn" onClick={()=>document.getElementById('my_modal_2').showModal()}>open modal</button>
+                <button className="btn" >open modal</button>
                 <dialog id="my_modal_2" className="modal">
                 <div className="modal-box">
                     <h3 className="font-bold text-lg">Hello!</h3>
